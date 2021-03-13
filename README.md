@@ -2,6 +2,6 @@
 
 https://javastart.tech/
 
-Practical course
-Java Developer
-From scratch to the first offerer
+Practical course<br>
+Java Developer<br>
+From scratch to the first offerer.<br>
