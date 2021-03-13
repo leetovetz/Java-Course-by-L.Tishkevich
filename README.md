@@ -4,4 +4,4 @@ https://javastart.tech/
 
 Practical course<br>
 Java Developer<br>
-From scratch to the first offerer.<br>
+From scratch to the first offer.<br>
