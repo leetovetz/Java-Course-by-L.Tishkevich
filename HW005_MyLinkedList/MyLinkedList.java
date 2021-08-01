@@ -8,6 +8,7 @@ public class MyLinkedList<Element> implements Iterable<Element>{
 
     private int size;
 
+    
     public void add(Element element) {
         if (first == null) {
             Node<Element> node = new Node<>(element, null, null);
