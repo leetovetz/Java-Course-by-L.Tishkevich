@@ -18,7 +18,7 @@ Several web application projects based on RESTful services will be written.<br>
 REST, HTTP<br>
 Java, Spring Framework. Hibernate,<br>
 Spring Boot, Spring MVC, Spring Data, JUnit, Spring Boot Test<br>
-Gradle, Maven, PostgreSQL<br><br><br><br>
+Gradle, Maven, PostgreSQL<br>
 Git<br>
 
 **Possession of tools**<br>
