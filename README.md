@@ -10,7 +10,7 @@ The course will cover Java fundamentals such as Java Core,<br>
 collections, multithreading, OOP, design patterns,<br> 
 basic algorithms and data structures.<br>
 
-Experience with Spring and Hibernate frameworks will also be gained.<br>
+Experience with **Spring** and **Hibernate** frameworks will also be gained.<br>
 
 Several web application projects based on RESTful services will be written.<br>
 
